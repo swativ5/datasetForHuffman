@@ -1,0 +1,23 @@
+sample text 1:
+The compressed ratio is : 1.8433303491495077
+The shanon score: 4.680416403853821
+
+sample text 2:
+The compressed ratio is : 1.8632855567805953
+The shanon score: 4.504995531974983
+
+sample text 3:
+The compressed ratio is : 2.0462555066079293
+The shanon score: 4.575544868086333
+
+sample text 4;
+The compressed ratio is : 2.4022988505747125
+The shanon score: 5.99967859362557
+
+sample text 5:
+The compressed ratio is : 1.3507414571244358
+The shanon score: 4.490921474014127
+
+sample text 6:
+The compressed ratio is : 3.688888888888889
+The shanon score: 4.82979273526866
