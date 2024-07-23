@@ -1,0 +1,35 @@
+sample image 1:
+The compressed ratio without subsampling is : 1.270636612854097
+The compressed ratio with subsampling is : 0.6911361559549193
+
+sample image 2:
+The compressed ratio without subsampling is : 0.9743169180301636
+The compressed ratio with subsampling is : 0.22153658439012683
+
+sample image 3:
+The compressed ratio without subsampling is : 1.0560373164699621
+The compressed ratio with subsampling is : 0.35960930407287983
+
+sample image 4:
+The compressed ratio without subsampling is : 1.0663148834250216
+The compressed ratio with subsampling is : 0.37693200104786495
+
+sample image 5:
+The compressed ratio without subsampling is : 1.0915668789808917
+The compressed ratio with subsampling is : 0.41355414012738856
+
+sample image 6:
+The compressed ratio without subsampling is : 1.141656662665066
+The compressed ratio with subsampling is : 0.523969587835134
+
+sample image 7:
+The compressed ratio without subsampling is : 1.0042233278834982
+The compressed ratio with subsampling is : 0.04787968459226877
+
+sample image 8:
+The compressed ratio without subsampling is : 1.0075688700652667
+The compressed ratio with subsampling is : 0.07023379234391053
+
+sample image 9:
+The compressed ratio without subsampling is : 1.0066155766030973
+The compressed ratio with subsampling is : 0.05962818379623704
